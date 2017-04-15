@@ -1,0 +1,17 @@
+# Site settings
+title: SEI 2016
+email: sei@cesium.di.uminho.pt
+description: > # this means to ignore newlines until "baseurl:"
+  SEI is a free-of-charge yearly hacker conference in Braga, Portugal.
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "https://2016.seium.org/" # the base hostname & protocol for your site
+twitter_username: cesiuminho
+github_username:  cesium
+
+highlighter: rouge
+
+# Build settings
+markdown: kramdown
+
+gems:
+- jekyll-assets
