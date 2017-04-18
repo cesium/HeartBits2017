@@ -8625,9 +8625,9 @@ body {
 
 /* Footer Styles */
 footer {
-  background: #191919 url("/assets/backgrounds/footer.png") no-repeat bottom;
+  background: #191919;
   background-attachment: fixed;
-  padding-bottom: 11%;
+  padding-bottom: 2%;
   background-size: 100%;
   width: 100%; }
   footer h4 {
@@ -8803,7 +8803,7 @@ button.btn.btn-info.btn-sei {
 #heartbits #heartbits-info {
   text-align: justify;
   padding: 100px 0;
-  background: url("/assets/backgrounds/dark-stuff.png") no-repeat center center;
+  background-color: black;
   background-size: cover;
   background-attachment: scroll;
   font-size: 1.2em; }
@@ -8822,7 +8822,7 @@ button.btn.btn-info.btn-sei {
     font-size: 1.2em; }
 #heartbits #heartbits-organisation {
   padding: 100px 0;
-  background: url("/assets/backgrounds/prometeu.png") no-repeat center center;
+  background-color: grey;
   background-size: cover;
   background-attachment: scroll; }
   #heartbits #heartbits-organisation .heartbits-partners {
