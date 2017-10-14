@@ -95,3 +95,27 @@
 
 .navbar-header button
   color: #fff
+
+.dropdown-menu
+  .sub-menu
+    position: absolute
+    visibility: hidden
+  li:hover .sub-menu
+    visibility: visible
+
+.dropdown:hover .dropdown-menu
+  display: block
+
+
+.navbar
+  .dropdown-menu
+    margin-top: 0
+    border-radious: 25%
+  .sub-menu
+    &:before
+      left: -7px
+      top: 10px
+    &:after
+      left: 10px
+      top: 11px
+      left: -6px

@@ -1,0 +1,32 @@
+<section id="partners">
+  <div class="container">
+
+    <div class="section-title-container">
+      <h1 class="section-title">Quotes</h1>
+    </div>
+
+    <div class="col-md-offset-1 col-md-10 partners-carousel">
+      {% for quote in site.data.quotes %}
+        <div class="wide-logo">
+          <div>
+            <div class="speakers-list-cell speakers-container">
+              <div class="col-md-12">
+                <div class="speaker-img col-md-2">
+                  {% image nav-logo.png class:quote-img %}
+                </div>
+                <div class="col-md-8">
+                  <span class="speaker-name"><b>{{ quote.name }}</b></span>
+                  </br>
+                  <span class="speaker-position">{{ quote.job }}</span>
+                </div>
+              </div>
+              <div class="col-md-12">
+                <span class="speaker-company">{{ quote.text }}</span>
+              </div>
+            </div> 
+          </div>
+        </div>
+      {% endfor %}    
+    </div>
+  </div>
+</section>
