@@ -16007,7 +16007,7 @@ if (typeof jQuery === 'undefined') {
 $(document).ready(function(){
   $('.partners-carousel').slick({
     autoplay: true,
-    slidesToShow: 3,
+    slidesToShow: 2,
     responsive: [{
       breakpoint: 778,
       settings: {
@@ -16129,7 +16129,7 @@ $(document).ready ( function() {
     var timeinterval = setInterval(updateClock, 1000);
   }
 
-  var deadline = new Date(Date.parse(new Date(2016, 1, 13, 18)));
+  var deadline = new Date(Date.parse(new Date(2018, 11, 1, 00, 00)));
   initializeClock('clock', deadline);
 
 });

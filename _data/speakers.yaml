@@ -1,0 +1,7 @@
+- name: Name
+  pic: logo.png
+  position: Profissão
+  enterprise: Empresa
+  enterpriseURL: URL da Empresa
+  twitter: twitter
+  about: lorem ipsum
