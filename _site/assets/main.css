@@ -7842,7 +7842,7 @@ button.close {
   height: auto;
   text-align: center;
   color: #fff;
-  background-color: #F69929;
+  background-image: url("/assets/backgrounds/click3.png");
   background-size: cover;
   -o-background-size: cover; }
   #registracions .title-container {
@@ -7862,11 +7862,16 @@ button.close {
 #about {
   text-align: justify;
   padding: 100px 0;
-  background-color: grey;
-  background-size: cover;
+  background-image: url("/assets/backgrounds/prometeu.png");
   background-attachment: scroll;
   font-size: 1.2em;
-  font-family: "Lato"; }
+  font-family: "Lato";
+  background-attachment: fixed;
+  background-position: center center;
+  background-repeat: none;
+  background-size: cover;
+  -o-background-size: cover;
+  padding-bottom: 100px; }
   #about .title-container {
     text-align: left;
     font-size: 1.2em;
@@ -8599,7 +8604,7 @@ body {
   left: -6px; }
 
 #gold, #silver, #bronze, #partners {
-  background: url("/assets/backgrounds/light-touch.png") no-repeat center center;
+  background: url("/assets/backgrounds/click.png") no-repeat center center;
   background-size: cover;
   -o-background-size: cover;
   background-attachment: scroll;
@@ -8842,8 +8847,7 @@ button.btn.btn-info.btn-sei {
   height: auto;
   padding: 100px 0;
   text-align: center;
-  color: #fff;
-  background-color: #18A0C1;
+  background-image: url("/assets/backgrounds/header.png");
   background-size: cover;
   -o-background-size: cover; }
   #heartbits #heartbits-header .header-body {
@@ -8892,10 +8896,16 @@ button.btn.btn-info.btn-sei {
 #heartbits #heartbits-info {
   text-align: justify;
   padding: 100px 0;
-  background-color: black;
-  background-size: cover;
+  background-image: url("/assets/backgrounds/click4.png");
   background-attachment: scroll;
-  font-size: 1.2em; }
+  font-size: 1.2em;
+  font-family: "Lato";
+  background-attachment: fixed;
+  background-position: center center;
+  background-repeat: none;
+  background-size: cover;
+  -o-background-size: cover;
+  padding-bottom: 100px; }
   #heartbits #heartbits-info .info {
     margin-bottom: 30px; }
     #heartbits #heartbits-info .info .info-text {
@@ -8913,7 +8923,8 @@ button.btn.btn-info.btn-sei {
   padding: 100px 0;
   background-color: #F46519;
   background-size: cover;
-  background-attachment: scroll; }
+  background-attachment: scroll;
+  background-image: url("/assets/backgrounds/back-blue.png"); }
   #heartbits #heartbits-organisation .heartbits-partners {
     width: 100%; }
 
@@ -9172,7 +9183,7 @@ button.btn.btn-info.btn-sei {
 #vission {
   text-align: justify;
   padding: 100px 0;
-  background-color: blue;
+  background-image: url("/assets/backgrounds/blue-orange.png");
   background-attachment: scroll;
   font-size: 1.2em;
   font-family: "Lato";
@@ -9199,11 +9210,9 @@ button.btn.btn-info.btn-sei {
 #about-sep {
   text-align: justify;
   padding: 100px 0;
-  background-color: blue;
-  background-attachment: scroll;
+  background-image: url("/assets/backgrounds/back-blue.png");
   font-size: 1.2em;
   font-family: "Lato";
-  background-attachment: fixed;
   background-position: center center;
   background-repeat: none;
   background-size: cover;
@@ -9226,7 +9235,7 @@ button.btn.btn-info.btn-sei {
 #staff {
   padding-bottom: 75px;
   background-attachment: fixed;
-  background-image: url("/assets/backgrounds/dark-stuff.png");
+  background-image: url("/assets/backgrounds/grey.png");
   background-position: center center;
   background-repeat: none;
   background-size: cover;
@@ -9441,18 +9450,19 @@ section .staff-info ul.social-buttons {
 #aboutspeakers {
   text-align: center;
   background-attachment: fixed;
-  background-image: url("/assets/backgrounds/dark-stuff.png");
+  background-image: url("/assets/backgrounds/back-blue.png");
   background-position: center center;
   background-repeat: none;
   background-size: cover;
   -o-background-size: cover;
   height: 100%;
-  padding-top: 50px; }
+  padding-top: 50px;
+  color: black; }
   #aboutspeakers .section-title {
     margin-top: 50px; }
 
 .aboutspeaker {
-  color: #fff;
+  color: black;
   text-align: justify;
   line-height: 150%;
   font-weight: bold;
@@ -9501,10 +9511,16 @@ section .staff-info ul.social-buttons {
 #heartbits-info {
   text-align: justify;
   padding: 100px 0;
-  background-color: black;
-  background-size: cover;
+  background-image: url("/assets/backgrounds/click4.png");
   background-attachment: scroll;
-  font-size: 1.2em; }
+  font-size: 1.2em;
+  font-family: "Lato";
+  background-attachment: fixed;
+  background-position: center center;
+  background-repeat: none;
+  background-size: cover;
+  -o-background-size: cover;
+  padding-bottom: 100px; }
   #heartbits-info .info {
     margin-bottom: 30px; }
     #heartbits-info .info .info-text {
@@ -9713,7 +9729,7 @@ section .staff-info ul.social-buttons {
 #mission {
   text-align: justify;
   padding: 100px 0;
-  background-color: #18A0C1;
+  background-image: url("/assets/backgrounds/back-blue.png");
   background-attachment: scroll;
   font-size: 1.2em;
   font-family: "Lato";
