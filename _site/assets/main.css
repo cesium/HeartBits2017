@@ -7,8 +7,8 @@
  * -------------------------- */
 @font-face {
   font-family: 'FontAwesome';
-  src: url("/assets/font-awesome/fontawesome-webfont.eot?v=4.5.0");
-  src: url("/assets/font-awesome/fontawesome-webfont.eot?v=4.5.0#iefix") format("embedded-opentype"), url("/assets/font-awesome/fontawesome-webfont.woff2?v=4.5.0") format("woff2"), url("/assets/font-awesome/fontawesome-webfont.woff?v=4.5.0") format("woff"), url("/assets/font-awesome/fontawesome-webfont.ttf?v=4.5.0") format("truetype"), url("/assets/font-awesome/fontawesome-webfont.svg?v=4.5.0#fontawesomeregular") format("svg");
+  src: url("/HeartBits2017/assets/font-awesome/fontawesome-webfont.eot?v=4.5.0");
+  src: url("/HeartBits2017/assets/font-awesome/fontawesome-webfont.eot?v=4.5.0#iefix") format("embedded-opentype"), url("/HeartBits2017/assets/font-awesome/fontawesome-webfont.woff2?v=4.5.0") format("woff2"), url("/HeartBits2017/assets/font-awesome/fontawesome-webfont.woff?v=4.5.0") format("woff"), url("/HeartBits2017/assets/font-awesome/fontawesome-webfont.ttf?v=4.5.0") format("truetype"), url("/HeartBits2017/assets/font-awesome/fontawesome-webfont.svg?v=4.5.0#fontawesomeregular") format("svg");
   font-weight: normal;
   font-style: normal; }
 .fa {
@@ -7842,7 +7842,7 @@ button.close {
   height: auto;
   text-align: center;
   color: #fff;
-  background-image: url("/assets/backgrounds/click3.png");
+  background-image: url("/HeartBits2017/assets/backgrounds/click3.png");
   background-size: cover;
   -o-background-size: cover; }
   #registracions .title-container {
@@ -7862,7 +7862,7 @@ button.close {
 #about {
   text-align: justify;
   padding: 100px 0;
-  background-image: url("/assets/backgrounds/prometeu.png");
+  background-image: url("/HeartBits2017/assets/backgrounds/prometeu.png");
   background-attachment: scroll;
   font-size: 1.2em;
   font-family: "Lato";
@@ -8368,7 +8368,7 @@ aside.clients img {
 
 section#contact {
   background-color: #222;
-  background-image: url("/assets/map-image.png");
+  background-image: url("/HeartBits2017/assets/map-image.png");
   background-position: center;
   background-repeat: no-repeat; }
   section#contact .section-heading {
@@ -8604,7 +8604,7 @@ body {
   left: -6px; }
 
 #gold, #silver, #bronze, #partners {
-  background: url("/assets/backgrounds/click.png") no-repeat center center;
+  background: url("/HeartBits2017/assets/backgrounds/click.png") no-repeat center center;
   background-size: cover;
   -o-background-size: cover;
   background-attachment: scroll;
@@ -8847,7 +8847,7 @@ button.btn.btn-info.btn-sei {
   height: auto;
   padding: 100px 0;
   text-align: center;
-  background-image: url("/assets/backgrounds/header.png");
+  background-image: url("/HeartBits2017/assets/backgrounds/header.png");
   background-size: cover;
   -o-background-size: cover; }
   #heartbits #heartbits-header .header-body {
@@ -8896,7 +8896,7 @@ button.btn.btn-info.btn-sei {
 #heartbits #heartbits-info {
   text-align: justify;
   padding: 100px 0;
-  background-image: url("/assets/backgrounds/click4.png");
+  background-image: url("/HeartBits2017/assets/backgrounds/click4.png");
   background-attachment: scroll;
   font-size: 1.2em;
   font-family: "Lato";
@@ -8914,7 +8914,7 @@ button.btn.btn-info.btn-sei {
       margin: 10px 0; }
 #heartbits #heartbits-awards {
   padding: 100px 0;
-  background: url("/assets/backgrounds/light-stuff.png") no-repeat center center;
+  background: url("/HeartBits2017/assets/backgrounds/light-stuff.png") no-repeat center center;
   background-size: cover;
   background-attachment: fixed; }
   #heartbits #heartbits-awards .activities-description {
@@ -8924,13 +8924,13 @@ button.btn.btn-info.btn-sei {
   background-color: #F46519;
   background-size: cover;
   background-attachment: scroll;
-  background-image: url("/assets/backgrounds/back-blue.png"); }
+  background-image: url("/HeartBits2017/assets/backgrounds/back-blue.png"); }
   #heartbits #heartbits-organisation .heartbits-partners {
     width: 100%; }
 
 #activities {
   background-attachment: fixed;
-  background-image: url("/assets/backgrounds/light-stuff.png");
+  background-image: url("/HeartBits2017/assets/backgrounds/light-stuff.png");
   background-position: center center;
   -webkit-background-size: cover;
   background-repeat: none;
@@ -9139,7 +9139,7 @@ button.btn.btn-info.btn-sei {
   text-align: center; }
 
 #code {
-  background-image: url("/assets/backgrounds/dark-stuff.png");
+  background-image: url("/HeartBits2017/assets/backgrounds/dark-stuff.png");
   background-attachment: fixed;
   background-size: cover;
   -o-background-size: cover;
@@ -9183,7 +9183,7 @@ button.btn.btn-info.btn-sei {
 #vission {
   text-align: justify;
   padding: 100px 0;
-  background-image: url("/assets/backgrounds/blue-orange.png");
+  background-image: url("/HeartBits2017/assets/backgrounds/blue-orange.png");
   background-attachment: scroll;
   font-size: 1.2em;
   font-family: "Lato";
@@ -9210,7 +9210,7 @@ button.btn.btn-info.btn-sei {
 #about-sep {
   text-align: justify;
   padding: 100px 0;
-  background-image: url("/assets/backgrounds/back-blue.png");
+  background-image: url("/HeartBits2017/assets/backgrounds/back-blue.png");
   font-size: 1.2em;
   font-family: "Lato";
   background-position: center center;
@@ -9235,7 +9235,7 @@ button.btn.btn-info.btn-sei {
 #staff {
   padding-bottom: 75px;
   background-attachment: fixed;
-  background-image: url("/assets/backgrounds/grey.png");
+  background-image: url("/HeartBits2017/assets/backgrounds/grey.png");
   background-position: center center;
   background-repeat: none;
   background-size: cover;
@@ -9450,7 +9450,7 @@ section .staff-info ul.social-buttons {
 #aboutspeakers {
   text-align: center;
   background-attachment: fixed;
-  background-image: url("/assets/backgrounds/back-blue.png");
+  background-image: url("/HeartBits2017/assets/backgrounds/back-blue.png");
   background-position: center center;
   background-repeat: none;
   background-size: cover;
@@ -9511,7 +9511,7 @@ section .staff-info ul.social-buttons {
 #heartbits-info {
   text-align: justify;
   padding: 100px 0;
-  background-image: url("/assets/backgrounds/click4.png");
+  background-image: url("/HeartBits2017/assets/backgrounds/click4.png");
   background-attachment: scroll;
   font-size: 1.2em;
   font-family: "Lato";
@@ -9599,13 +9599,13 @@ section .staff-info ul.social-buttons {
 
 /* Slider */
 .slick-loading .slick-list {
-  background: #fff "/assets/ajax-loader.gif" center center no-repeat; }
+  background: #fff "/HeartBits2017/assets/ajax-loader.gif" center center no-repeat; }
 
 /* Icons */
 @font-face {
   font-family: "slick";
-  src: url("/assets/slick.eot");
-  src: url("/assets/slick.eot?#iefix") format("embedded-opentype"), url("/assets/slick.woff") format("woff"), url("/assets/slick.ttf") format("truetype"), url("/assets/slick.svg#slick") format("svg");
+  src: url("/HeartBits2017/assets/slick.eot");
+  src: url("/HeartBits2017/assets/slick.eot?#iefix") format("embedded-opentype"), url("/HeartBits2017/assets/slick.woff") format("woff"), url("/HeartBits2017/assets/slick.ttf") format("truetype"), url("/HeartBits2017/assets/slick.svg#slick") format("svg");
   font-weight: normal;
   font-style: normal; }
 /* Arrows */
@@ -9729,7 +9729,7 @@ section .staff-info ul.social-buttons {
 #mission {
   text-align: justify;
   padding: 100px 0;
-  background-image: url("/assets/backgrounds/back-blue.png");
+  background-image: url("/HeartBits2017/assets/backgrounds/back-blue.png");
   background-attachment: scroll;
   font-size: 1.2em;
   font-family: "Lato";
