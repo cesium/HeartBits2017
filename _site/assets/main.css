@@ -8847,7 +8847,7 @@ button.btn.btn-info.btn-sei {
   height: auto;
   padding: 100px 0;
   text-align: center;
-  background-image: url("/HeartBits2017/assets/backgrounds/header.png");
+  background-image: url("/HeartBits2017/assets/backgrounds/pastel.png");
   background-size: cover;
   -o-background-size: cover; }
   #heartbits #heartbits-header .header-body {
@@ -9447,7 +9447,7 @@ section .staff-info ul.social-buttons {
       -o-transition: all 0.1s ease;
       -moz-transition: all 0.1s ease; }
 
-#aboutspeakers {
+#honor {
   text-align: center;
   background-attachment: fixed;
   background-image: url("/HeartBits2017/assets/backgrounds/back-blue.png");
@@ -9458,7 +9458,7 @@ section .staff-info ul.social-buttons {
   height: 100%;
   padding-top: 50px;
   color: black; }
-  #aboutspeakers .section-title {
+  #honor .section-title {
     margin-top: 50px; }
 
 .aboutspeaker {

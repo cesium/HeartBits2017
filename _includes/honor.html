@@ -1,58 +1,42 @@
-<section id="aboutspeakers" controller="speakerCtrl">
-  <div class="container">
-    <div class="section-title-container text-center">
+<section id="honor">
+  <div class="container" style="margin-top: 50px">
+    
+    <div class="section-title-container" style="margin-bottom: 30px">
       <h1 class="section-title">Menções Honrosas</h1>
-    </div>
+    </div >
 
-    <div class="speakers-def col-md-8 col-md-offset-2 ">
-      Durante esta semana vais ter a oportunidade de conhecer muitos oradores nacionais e internacionais reconhecidos e de empresas notórias, mas até lá, vai dando uma vista de olhos para saberes o que podes esperar desta edição.
-    </div>
-
-    {% for speaker in site.data.speakers %}
-    <div id="{{ speaker.name | slugify }}" class="col-md-12 speak-list">
-      <div class="col-md-3 vcenter">
-        <div class="speaker-img">
-          {% image '{{ speaker.pic }}' class:'speaker-pic' %}
-        </div>
-        <span class="speaker-name">{{ speaker.name }}</span>
-
-        {% if speaker.position %}
-        <span class="speaker-position">{{ speaker.position }}</span>
-        {% endif %}
-        {% if speaker.enterprise %}
-        <p class="speaker-company">
-          <a href="{{ speaker.enterpriseURL }}" target="_blank">
-            {{ speaker.enterprise }}
-          </a>
-        </p>
-        {% endif %}
-        <div class="col-lg-12 ">
-          <ul class="list-inline social-buttons speaker-social">
-            {% if speaker.web %}
+    {% for staff in site.data.staff %}
+    {% if staff.pic %}
+    <div repeat="staff in staffs" class="col-md-2  col-sm-2 col-xs-3 staff">
+      <div class="staff-info-container" style="background-image: url( {% asset_path '{{ staff.pic }}' %} )">
+        <div class="staff-info">
+          <span class="col-md-12 staff-name">{{ staff.name }}</span>
+          <ul class="list-inline social-buttons">
+            {% if staff.website %}
             <li>
-              <a if="speaker.web" target="_blank" href="{{ speaker.web }}"><i class="fa fa-globe"></i></a>
+              <a href="{{ staff.website }}" target="_blank"><i class="fa fa-globe"></i></a>
             </li>
             {% endif %}
-            {% if speaker.twitter %}
+            {% if staff.twitter %}
             <li>
-              <a if="speaker.twitter" target="_blank" href="{{ speaker.twitter }}"><i class="fa fa-twitter"></i></a>
+              <a href="{{ staff.twitter }}" target="_blank"><i class="fa fa-twitter"></i></a>
             </li>
             {% endif %}
-            {% if speaker.github %}
+            {% if staff.github %}
             <li>
-              <a if="speaker.github" target="_blank" href="{{ speaker.github }}"><i class="fa fa-github"></i></a>
+              <a href="{{ staff.github }}" target="_blank"><i class="fa fa-github"></i></a>
+            </li>
+            {% endif %}
+            {% if staff.linkedin %}
+            <li>
+              <a href="{{ staff.linkedin }}" target="_blank"><i class="fa fa-linkedin"></i></a>
             </li>
             {% endif %}
           </ul>
         </div>
-
-      </div><!--
-   --><div class="col-md-9 vcenter">
-        <span class="aboutspeaker">{{ speaker.about }}</span>
       </div>
     </div>
-
+    {% endif %}
     {% endfor %}
-
   </div>
 </section>
