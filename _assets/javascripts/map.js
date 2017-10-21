@@ -12,7 +12,7 @@ var map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions)
 var marker = new google.maps.Marker({
 position: myLatlng,
 map: map,
-title: 'SEI @ Departamento de Informática da Universidade do Minho'
+title: 'HeartBits 2017'
 });
 map.setTilt(45);
 }

@@ -1,0 +1,20 @@
+<section id="partners">
+  <div class="container">
+
+    <div class="section-title-container">
+      <h1 class="section-title">Apoios</h1>
+    </div>
+
+    <div class="col-md-offset-1 col-md-10 partners-carousel">
+      {% for quote in site.data.partners %}
+        <div class="wide-logo">
+            <div class="speakers-list-cell speakers-container">
+              <div class="speaker-img">
+                {% image logo.png class:partners-img %}
+              </div>
+            </div> 
+        </div>
+      {% endfor %}    
+    </div>
+  </div>
+</section>

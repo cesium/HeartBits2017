@@ -1,7 +1,7 @@
 $(document).ready(function(){
-  $('.quotes-carousel').slick({
+  $('.partners-carousel').slick({
     autoplay: true,
-    slidesToShow: 2,
+    slidesToShow: 3,
     responsive: [{
       breakpoint: 778,
       settings: {
