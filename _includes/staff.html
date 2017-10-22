@@ -8,14 +8,14 @@
     {% for staff in site.data.staff %}
     {% if staff.pic %}
     <div repeat="staff in staffs" class="col-md-2  col-sm-2 col-xs-3 staff">
-      <div class="staff-info-container" style="background-image: url( {% asset_path '{{ staff.pic }}' %} )">
+      <div class="staff-info-container" style="background-image: url( {% asset_path 'staff/{{ staff.pic }}' %} )">
         <div class="staff-info">
           <span class="col-md-12 staff-name">{{ staff.name }}</span>
             {% if staff.school %}
-              <span class="staff-text"> {{ staff.school }}</span>
+              <p class="staff-text"> {{ staff.school }}</p>
             {% endif %}
             {% if staff.job %}
-              <span class="staff-text"> {{ staff.job }}</span>
+              <p class="staff-text"> {{ staff.job }}</p>
             {% endif %}
         </div>
       </div>

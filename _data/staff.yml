@@ -1,5 +1,50 @@
 - name: Martinho Aragão
-  pic: logo.png
+  pic: martinhoaragao.jpg
   school: Escola de Engenharia
-  job: Boss, tipo aserio
+  job: Presidente do Cesium
+
+- name: Rita Ramalho
+  pic: ritaramalho.png
+  school: Escola de Medicina
+  job: Presidente Anem
+
+- name: Sara Moura
+  pic: saramoura.png
+  school: Escola de Medicina
+  job: VP Relações Externas
+
+- name: André Gonçalves
+  pic: andregoncalves.png
+  school: Escola de Engenharia
+  job: Programador Website
+
+- name: Carolina Xavier
+  pic: carolinaxavier.png
+  school: Escola de Medicina
+  job: Tesoureira Anem
+
+- name: Hugo Brandão
+  pic: hugobrandao.jpg
+  school: Escola de Engenharia
+  job: Vogal
+
+- name: José Bastos
+  pic: josebastos.jpg
+  school: Escola de Engenharia
+  job: Codiretor departamento Relações Externas
+
+- name: Lucia Abreu
+  pic: luciaabreu.png
+  school: Escola de Engenharia
+  job: Designer
+
+- name: Miguel Sedonio
+  pic: miguelsedonio.png
+  school: Escola de Medicina
+  job: Diretor Imagem
+
+- name: Tania Esteves
+  pic: taniaesteves.jpg
+  school: Escola de Engenharia
+  job: Codiretora Imagem
   
