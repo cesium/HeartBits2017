@@ -1,4 +1,14 @@
-- name: 
+- name: Nome
   pic: nav-logo.png
-  job: 
-  text: 
+  job: Trabalho
+  text: Quote
+
+- name: Nome
+  pic: nav-logo.png
+  job: Trabalho
+  text: Quote
+
+- name: Nome
+  pic: nav-logo.png
+  job: Trabalho
+  text: Quote

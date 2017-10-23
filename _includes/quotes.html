@@ -5,23 +5,23 @@
       <h1 class="section-title">Quotes</h1>
     </div>
 
-    <div class="col-md-offset-1 col-md-10 quotes-carousel">
+    <div class="col-xs-offset-1 col-xs-10 quotes-carousel">
       {% for quote in site.data.quotes %}
         <div class="wide-logo">
           <div>
             <div class="speakers-list-cell speakers-container">
-              <div class="col-md-12">
-                <div class="speaker-img col-md-2">
+              <div class="col-xs-12">
+                <div class="speaker-img col-xs-2">
                   {% image logo.png class:quote-img %}
                 </div>
-                <div class="col-md-8">
+                <div class="col-xs-7 col-xs-offset-1">
                   <span class="speaker-name"><b>{{ quote.name }}</b></span>
                   </br>
                   <span class="speaker-position">{{ quote.job }}</span>
                 </div>
               </div>
-              <div class="col-md-12">
-                <span class="speaker-company">{{ quote.text }}</span>
+              <div class="col-xs-11 col-xs-offset-1">
+                <span >{{ quote.text }}</span>
               </div>
             </div> 
           </div>
