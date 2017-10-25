@@ -1,89 +1,89 @@
 - name: Martinho Aragão
   pic: martinhoaragao.jpg
-  school: Escola de Engenharia
-  job: Presidente do Cesium
+  school: CeSIUM
+  job:
 
 - name: Rita Ramalho
   pic: ritaramalho.jpg
-  school: Escola de Medicina
-  job: Presidente Anem
+  school: ANEM
+  job: 
 
 - name: Sara Moura
   pic: saramoura.jpg
-  school: Escola de Medicina
-  job: VP Relações Externas
+  school: ANEM
+  job:
 
 - name: André Gonçalves
   pic: andregoncalves.png
-  school: Escola de Engenharia
-  job: Programador Website
+  school: CeSIUM
+  job:
 
 - name: Carolina Xavier
   pic: carolinaxavier.jpg
-  school: Escola de Medicina
-  job: Tesoureira Anem
+  school: ANEM
+  job:
 
 - name: Diogo de Sousa
   pic: diogodesousa.jpg
-  school: Escola de Medicina
-  job: 
+  school: ANEM
+  job:
 
 - name: Eduardo Oliveira
   pic: Oliveira.jpg
-  school: Escola de Medicina
-  job: 
+  school: ANEM
+  job:
 
 - name: Flávia Freitas
   pic: flaviafreitas.jpg
-  school: Escola de Medicina
-  job: 
+  school: ANEM
+  job:
 
 - name: Hugo Brandão
   pic: hugobrandao.jpg
-  school: Escola de Engenharia
-  job: Vogal
+  school: CeSIUM
+  job:
 
 - name: Inês Rodrigues
   pic: inesrodrigues.jpg
-  school: Escola de Medicina
-  job: 
+  school: ANEM
+  job:
 
 - name: Joana Teixeira
   pic: joanateixeira.jpg
-  school: Escola de Medicina
-  job: 
+  school: ANEM
+  job:
 
 - name: José Bastos
   pic: josebastos.jpg
-  school: Escola de Engenharia
-  job: Codiretor departamento Relações Externas
+  school: CeSIUM
+  job:
 
 - name: Lúcia Abreu
   pic: luciaabreu.png
-  school: Escola de Engenharia
-  job: Designer Gráfica
+  school: CeSIUM
+  job:
 
 - name: Maria do Pilar Simões
   pic: maria.jpg
-  school: Escola de Medicina
-  job: 
+  school: ANEM
+  job:
 
 - name: Miguel Serôdio
   pic: miguelsedonio.jpg
-  school: Escola de Medicina
-  job: Diretor Imagem
+  school: ANEM
+  job:
 
 - name: Rita Lopes
   pic: ritalopes.jpg
-  school: Escola de Medicina
-  job: 
+  school: ANEM
+  job:
 
 - name: Tania Esteves
   pic: taniaesteves.jpg
-  school: Escola de Engenharia
-  job: Codiretora Imagem
+  school: CeSIUM
+  job:
 
 - name: Teresa Guimarães
   pic: teresa.jpg
-  school: Escola de Medicina
-  job: 
+  school: ANEM
+  job:
