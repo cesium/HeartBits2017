@@ -1,7 +1,17 @@
-- name: Nome
-  pic: nav-logo.png
-  job: Trabalho
-  text: Quote
+- name: Martinho Aragão
+  pic: martinhoaragao.jpg
+  job: Presidente do CeSIUM
+  text: Sou muito linda. Sou muito linda. Sou muito linda. Sou muito linda. Sou muito linda. Sou muito linda. Sou muito linda. Sou muito linda. Sou muito linda. Sou muito linda. Sou muito linda. Sou muito linda. Sou muito linda. Sou muito linda. 
+
+- name: Martinho Aragão 2
+  pic: foto.jpg
+  job: Presidente do CeSIUM
+  text: Sou muito linda. Sou muito linda. Sou muito linda. Sou muito linda. Sou muito linda. Sou muito linda. Sou muito linda. Sou muito linda. Sou muito linda. Sou muito linda. Sou muito linda. Sou muito linda. Sou muito linda. Sou muito linda. 
+
+- name: Martinho Aragão 3
+  pic: foto.jpg
+  job: Presidente do CeSIUM
+  text: Sou muito linda. Sou muito linda. Sou muito linda. Sou muito linda. Sou muito linda. Sou muito linda. Sou muito linda. Sou muito linda. Sou muito linda. Sou muito linda. Sou muito linda. Sou muito linda. Sou muito linda. Sou muito linda. 
 
 - name: Nome
   pic: nav-logo.png

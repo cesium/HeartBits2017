@@ -4,12 +4,12 @@
   job: Presidente do Cesium
 
 - name: Rita Ramalho
-  pic: ritaramalho.png
+  pic: ritaramalho.jpg
   school: Escola de Medicina
   job: Presidente Anem
 
 - name: Sara Moura
-  pic: saramoura.png
+  pic: saramoura.jpg
   school: Escola de Medicina
   job: VP Relações Externas
 
@@ -19,32 +19,71 @@
   job: Programador Website
 
 - name: Carolina Xavier
-  pic: carolinaxavier.png
+  pic: carolinaxavier.jpg
   school: Escola de Medicina
   job: Tesoureira Anem
+
+- name: Diogo de Sousa
+  pic: diogodesousa.jpg
+  school: Escola de Medicina
+  job: 
+
+- name: Eduardo Oliveira
+  pic: Oliveira.jpg
+  school: Escola de Medicina
+  job: 
+
+- name: Flávia Freitas
+  pic: flaviafreitas.jpg
+  school: Escola de Medicina
+  job: 
 
 - name: Hugo Brandão
   pic: hugobrandao.jpg
   school: Escola de Engenharia
   job: Vogal
 
+- name: Inês Rodrigues
+  pic: inesrodrigues.jpg
+  school: Escola de Medicina
+  job: 
+
+- name: Joana Teixeira
+  pic: joanateixeira.jpg
+  school: Escola de Medicina
+  job: 
+
 - name: José Bastos
   pic: josebastos.jpg
   school: Escola de Engenharia
   job: Codiretor departamento Relações Externas
 
-- name: Lucia Abreu
+- name: Lúcia Abreu
   pic: luciaabreu.png
   school: Escola de Engenharia
-  job: Designer
+  job: Designer Gráfica
 
-- name: Miguel Sedonio
-  pic: miguelsedonio.png
+- name: Maria do Pilar Simões
+  pic: maria.jpg
+  school: Escola de Medicina
+  job: 
+
+- name: Miguel Serôdio
+  pic: miguelsedonio.jpg
   school: Escola de Medicina
   job: Diretor Imagem
+
+- name: Rita Lopes
+  pic: ritalopes.jpg
+  school: Escola de Medicina
+  job: 
 
 - name: Tania Esteves
   pic: taniaesteves.jpg
   school: Escola de Engenharia
   job: Codiretora Imagem
-  
+
+- name: Teresa Guimarães
+  pic: teresa.jpg
+  school: Escola de Medicina
+  job: 
