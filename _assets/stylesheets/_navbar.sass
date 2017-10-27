@@ -1,6 +1,8 @@
 .page-scroll.disabled
   opacity: 0.1
 
+.navbar-custom.top-nav-collapse
+  background-color: #202a6b
 .nav-item
   a
     font-family: 'Helvetica Neue', 'Open Sans', sans-serif
@@ -41,7 +43,7 @@
   font-size: 56.3%
   font-family: "Lato", sans-serif
   font-weight: normal
-  color: #4c4c4c
+  color: #fff
   div
     position: relative
     display: none
@@ -73,6 +75,12 @@
       -webkit-transition: opacity 0.6s ease-out, left 0.6s ease-out
       -moz-transition: opacity 0.6s ease-out, left 0.6s ease-out
 
+@media (min-width: 767px)
+  .top-nav-collapse
+    background-color: #202a6b
+  .navbar-custom.top-nav-collapse
+    border-bottom: 1px solid  #202a6b
+
 @media (max-width: 767px)
   a#nav-logo img
     width: 55px
@@ -95,7 +103,7 @@
     font-size: 9px
 
 .navbar-header button
-  color: #4c4c4c
+  color: #fff
 
 .dropdown-menu
   .sub-menu
@@ -121,4 +129,4 @@
       top: 11px
       left: -6px
   .nav-text
-    color: #4c4c4c
+    color: #fff
