@@ -1,56 +1,65 @@
 #partners
   text-align: center
-  padding: 100px 0
-  background-image: url(image_path("backgrounds/fundo_claro9.png"))
-  background-attachment: scroll
-  font-size: 1.2em
-  font-family: "Lato"
   background-attachment: fixed
+  background-image: radial-gradient(circle, #3241a6 0, #202a6b 120%)
   background-position: center center
   background-repeat: none
   -webkit-background-size: cover
   -moz-background-size: cover
   background-size: cover
   -o-background-size: cover
-  padding-bottom: 100px
+  height: 100%
+  padding-top: 50px
+  color: #fff
+  .honor-title
+    margin-bottom: 30px
+    border: 3px solid #fff
   .section-title
+    margin-top: 50px
+    border: 3px solid #fff
+    padding: 15px
+  .honor-text
     text-align: center
-    border-color: #4c4c4c
-    color: #4c4c4c
-  .partners-img
-    height: 150px
-    width: 150px
+    color: #212121
+  .sponsor-logo
+    width: 100px
+  .partner-img
+    heigth: 150px
+    width: 100%
+    margin: auto
+    margin-top: 50px
 
-#partners-heading
-  border: 5px solid
-  letter-spacing: 0.3em
-  padding-bottom: 10px
+    
+.aboutspeaker
+  color: black
+  text-align: justify
+  line-height: 150%
+  font-weight: bold
+  font-size: 16px
+  display: flex
+  align-items: center
 
-.title-container
-  div.partners-title
-    border-color: #EAEAEA
+.aboutspeakers-title
+  float: right
+  margin-top: 50px
 
-.partners-header
-  overflow: hidden
-  span
-    line-height: 0.5
-    display: inline-block
-    position: relative
-    &:before, &:after
-      content: ""
-      position: absolute
-      height: 5px
-      border-bottom: 1px solid
-      top: 0
-      width: 400px
-    &:before
-      right: 100%
-      margin-right: 15px
-    &:after
-      left: 100%
-      margin-left: 15px
+.whitebox
+  border: 1px solid white
+  width: 50%
+  margin-bottom : 50px
 
-  
+.timeandloc
+  float: rigth
+
+
+.speak-list
+  margin: 0px 0px 50px 0px
+
+.speakers-def
+  font-size: 18px
+  margin-top: 50px
+  margin-bottom: 100px
+
 /* To fix image alignment
 .flex-wrapper
   width: 100%
@@ -79,3 +88,14 @@
 .wide-logo
   width: 250px
   margin: 10px 10px 10px 10px
+
+@media (max-width: 767px)
+  .aboutspeaker
+    padding: 0
+  section ul.social-buttons li a
+    height: 30px
+    width: 30px
+    font-size: 14px
+    line-height: 30px
+  ul.speakers-carousel
+    height: 400px
