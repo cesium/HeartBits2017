@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
   <head>
-  {% include head.html %}
+  {% include layout/head.html %}
   </head>
   <body id="page-top" class="index" ng-app="sei-app">
-  	{% include navbar.html %}
+  	{% include layout/navbar.html %}
 
     {{ content }}
 
-    {% include footer.html %}
+    {% include layout/footer.html %}
 
     {% javascript main %}
   </body>
