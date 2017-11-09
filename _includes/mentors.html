@@ -1,0 +1,21 @@
+<section id="mentorsheader">
+  <div class="container" style="margin-top: 50px">
+
+    <div class="section-title-container">
+      <h1 class="section-title mentors-title">Mentores</h1>
+    </div>
+  </div>
+</section>
+<section id="mentorswhite">
+  <div class="container">
+{% for mentor in site.data.mentors %}
+    <div class="col-md-6 icons-space vcenter">
+      {% image 'mentors/{{mentor.pic}}' class:'mentor-img img-responsive ' %}
+      <h4>{{mentor.name}}</h4>
+      <h5>{{mentor.job}}</h5>
+      <h5>{{mentor.note}}</h5>
+      <h6>"{{mentor.comment}}"</h6>
+    </div>
+{% endfor %}
+  </div>
+</section>

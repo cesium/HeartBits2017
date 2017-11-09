@@ -1,0 +1,12 @@
+- name: Martinho Aragão
+  pic: martinho.jpg
+  job: The President
+  note: Likes to scare people with scissors
+  comment: "Heartbits is all about hearting your bit"
+  color: mentorsgray
+- name: Sérgio Costa
+  pic: sergio.jpg
+  job: Not even he knows
+  note: Is scared of people with scissors
+  comment: "Põe aí qualquer coisa"
+  color: mentorswhite
