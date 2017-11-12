@@ -6,7 +6,7 @@
 - name: Rita Ramalho
   pic: ritaramalho.jpg
   school: ANEM
-  job:
+  job: 
 
 - name: Sara Moura
   pic: saramoura.jpg
@@ -21,11 +21,6 @@
 - name: Carolina Xavier
   pic: carolinaxavier.jpg
   school: ANEM
-  job:
-
-- name: Diogo Couto
-  pic: diogocouto.jpg
-  school: CeSIUM
   job:
 
 - name: Diogo de Sousa
@@ -78,19 +73,9 @@
   school: ANEM
   job:
 
-- name: João Vilaça
-  pic: vilaça.jpg
-  school: CeSIUM
-  job:
-
 - name: Miguel Serôdio
   pic: miguelsedonio.jpg
   school: ANEM
-  job:
-
-- name: Sérgio Costa
-  pic: sergiocosta.jpg
-  school: CeSIUM
   job:
 
 - name: Rita Lopes
@@ -106,14 +91,4 @@
 - name: Teresa Guimarães
   pic: teresa.jpg
   school: ANEM
-  job:
-
-- name: Francisco Costa
-  pic: xico.jpg
-  school: CeSIUM
-  job:
-
-- name: José Nuno Macedo
-  pic: zenuno.jpg
-  school: CeSIUM
   job:

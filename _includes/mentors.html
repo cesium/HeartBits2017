@@ -1,0 +1,27 @@
+<section id="mentorsheader">
+  <div class="container" style="margin-top: 50px">
+
+    <div class="section-title-container">
+      <h1 class="section-title mentors-title">Mentores</h1>
+    </div>
+  </div>
+</section>
+<section id="mentorswhite">
+  <div class="container">
+    {% for mentor in site.data.mentors %}
+    <div class="vcenter col-md-6 icons-space mentor">
+      <div class="mentor-img vcenter img-responsive" style="background-image: url({% asset_path 'mentors/{{mentor.pic}}'%})">
+      </div>
+      <h4>{{mentor.name}}</h4>
+      <h5>{{mentor.job}}</h5>
+      <button class="btn btn-primary text-toggle" data-toggle="collapse" data-target="#{{mentor.id}}" aria-expanded="false">
+        <span class="text-collapsed">See More</span>
+        <span class="text-expanded">See Less</span>
+      </button>
+      <div id="{{mentor.id}}" class="collapse" aria-expanded="false">
+        <h6>"{{mentor.bio}}"</h6>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>
