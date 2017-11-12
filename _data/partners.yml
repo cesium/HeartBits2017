@@ -10,6 +10,14 @@
   pic: startup_braga.png
   link: http://www.investbraga.com/startup/
   size: 4
+- name: spms
+  pic: spms.png
+  link: http://spms.min-saude.pt/en/
+  size: 6
+- name: aneeb
+  pic: aneeb.png
+  link: https://www.facebook.com/aneebiomedica/
+  size: 6
 - name: medicina
   pic: medicina.jpg
   link: https://www.med.uminho.pt/pt
