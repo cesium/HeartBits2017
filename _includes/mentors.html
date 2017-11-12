@@ -8,14 +8,20 @@
 </section>
 <section id="mentorswhite">
   <div class="container">
-{% for mentor in site.data.mentors %}
-    <div class="col-md-6 icons-space vcenter">
-      {% image 'mentors/{{mentor.pic}}' class:'mentor-img img-responsive ' %}
+    {% for mentor in site.data.mentors %}
+    <div class="vcenter col-md-6 icons-space mentor">
+      <div class="mentor-img vcenter img-responsive" style="background-image: url({% asset_path 'mentors/{{mentor.pic}}'%})">
+      </div>
       <h4>{{mentor.name}}</h4>
       <h5>{{mentor.job}}</h5>
-      <h5>{{mentor.note}}</h5>
-      <h6>"{{mentor.comment}}"</h6>
+      <button class="btn btn-primary text-toggle" data-toggle="collapse" data-target="#{{mentor.id}}" aria-expanded="false">
+        <span class="text-collapsed">See More</span>
+        <span class="text-expanded">See Less</span>
+      </button>
+      <div id="{{mentor.id}}" class="collapse" aria-expanded="false">
+        <h6>"{{mentor.bio}}"</h6>
+      </div>
     </div>
-{% endfor %}
+    {% endfor %}
   </div>
 </section>
