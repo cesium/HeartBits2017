@@ -17,7 +17,7 @@
   .section-title
     margin-top: 50px
 
-#mentorswhite
+#mentorsbody
   background-size: cover
   background-attachment: scroll
   font-size: 1.2em
@@ -27,13 +27,20 @@
   height: auto
   text-align: center
   color: #222
-  background-color: #fafafa
   background-position: center center
   background-repeat: none
   -webkit-background-size: cover
   -moz-background-size: cover
   background-size: cover
   -o-background-size: cover
+  &.business, &.health
+    background-color: #fafafa
+  &.tech
+    background-color: rgba(255, 255, 255, 0.8)
+  h2
+    color: #f58032
+    margin-top: 0
+    margin-bottom: 22px
   .mentor
     margin-bottom: 10px
   .mentors-text
@@ -48,9 +55,9 @@
     display: inline-block
   h4
     font-size: 22px
+    color: #f58032
   h5
     font-size: 20px
-    color: rgba(51,51,51,0.75)
     text-transform: none
   .text-toggle[aria-expanded="false"] .text-expanded
     display: none
@@ -61,8 +68,8 @@
     border-color: #3241a6
     color: #3241a6
     &:hover, &:active
-      background-color: #3241a6
-      border-color: #3241a6
+      background-color: #f58032
+      border-color: #f58032
       color: #fafafa
   h6
     font-size: 18px

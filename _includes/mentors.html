@@ -6,9 +6,11 @@
     </div>
   </div>
 </section>
-<section id="mentorswhite">
-  <div class="container">
+<section id="mentorsbody">
+  <div class="container business">
+    <h2>Business Development</h2>
     {% for mentor in site.data.mentors %}
+    {% if mentor.area == "business" %}
     <div class="vcenter col-md-4 icons-space mentor">
       <div class="mentor-img vcenter img-responsive" style="background-image: url({% asset_path 'mentors/{{mentor.pic}}'%})">
       </div>
@@ -22,6 +24,49 @@
         <h6>"{{mentor.bio}}"</h6>
       </div>
     </div>
+    {% endif %}
+    {% endfor %}
+  </div>
+
+  <div class="container tech">
+    {% for mentor in site.data.mentors %}
+    {% if mentor.area == tech %}
+        <div class="vcenter col-md-4 icons-space mentor">
+      <div class="mentor-img vcenter img-responsive" style="background-image: url({% asset_path 'mentors/{{mentor.pic}}'%})">
+      </div>
+      <h4>{{mentor.name}}</h4>
+      <h5 class="area">{{mentor.job}}</h5>
+      <h5>{{mentor.area}}</h5>
+      <button class="btn btn-primary text-toggle" data-toggle="collapse" data-target="#{{mentor.id}}" aria-expanded="false">
+        <span class="text-collapsed">See More</span>
+        <span class="text-expanded">See Less</span>
+      </button>
+      <div id="{{mentor.id}}" class="collapse" aria-expanded="false">
+        <h6>"{{mentor.bio}}"</h6>
+      </div>
+    </div>
+    {% endif %}
+    {% endfor %}
+  </div>
+
+  <div class="container health">
+    {% for mentor in site.data.mentors %}
+    {% if mentor.area == health %}
+    <div class="vcenter col-md-4 icons-space mentor">
+      <div class="mentor-img vcenter img-responsive" style="background-image: url({% asset_path 'mentors/{{mentor.pic}}'%})">
+      </div>
+      <h4>{{mentor.name}}</h4>
+      <h5 class="area">{{mentor.job}}</h5>
+      <h5>{{mentor.area}}</h5>
+      <button class="btn btn-primary text-toggle" data-toggle="collapse" data-target="#{{mentor.id}}" aria-expanded="false">
+        <span class="text-collapsed">See More</span>
+        <span class="text-expanded">See Less</span>
+      </button>
+      <div id="{{mentor.id}}" class="collapse" aria-expanded="false">
+        <h6>"{{mentor.bio}}"</h6>
+      </div>
+    </div>
+    {% endif %}
     {% endfor %}
   </div>
 </section>
