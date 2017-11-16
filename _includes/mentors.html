@@ -32,12 +32,11 @@
     <h2>Tech Development</h2>
     {% for mentor in site.data.mentors %}
     {% if mentor.area == "tech" %}
-        <div class="vcenter col-md-4 icons-space mentor">
+    <div class="vcenter col-md-4 icons-space mentor">
       <div class="mentor-img vcenter img-responsive" style="background-image: url({% asset_path 'mentors/{{mentor.pic}}'%})">
       </div>
       <h4>{{mentor.name}}</h4>
-      <h5 class="area">{{mentor.job}}</h5>
-      <h5>{{mentor.area}}</h5>
+      <h5>{{mentor.job}}</h5>
       <button class="btn btn-primary text-toggle" data-toggle="collapse" data-target="#{{mentor.id}}" aria-expanded="false">
         <span class="text-collapsed">See More</span>
         <span class="text-expanded">See Less</span>
@@ -58,8 +57,7 @@
       <div class="mentor-img vcenter img-responsive" style="background-image: url({% asset_path 'mentors/{{mentor.pic}}'%})">
       </div>
       <h4>{{mentor.name}}</h4>
-      <h5 class="area">{{mentor.job}}</h5>
-      <h5>{{mentor.area}}</h5>
+      <h5>{{mentor.job}}</h5>
       <button class="btn btn-primary text-toggle" data-toggle="collapse" data-target="#{{mentor.id}}" aria-expanded="false">
         <span class="text-collapsed">See More</span>
         <span class="text-expanded">See Less</span>
