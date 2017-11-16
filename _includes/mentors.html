@@ -32,7 +32,7 @@
     <h2>Tech Development</h2>
     {% for mentor in site.data.mentors %}
     {% if mentor.area == "tech" %}
-    <div class="vcenter col-md-4 icons-space mentor">
+    <div class="vcenter col-md-6 icons-space mentor">
       <div class="mentor-img vcenter img-responsive" style="background-image: url({% asset_path 'mentors/{{mentor.pic}}'%})">
       </div>
       <h4>{{mentor.name}}</h4>
