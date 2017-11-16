@@ -18,3 +18,52 @@
   bio: Licenciado e pós-graduado em Economia, Luís Nuno Barbosa foi co-fundador da Young Minho Enterprise, a júnior empresa da Universidade do Minho. Organizou várias edições do Startup Pirates em Braga, tendo apoiado a organização em Vila do Conde e Vila Real. Foi coordenador do Factory Academy, uma academia de formação, focada no Marketing Digital, onde trabalhou também em projectos de desenvolvimento de ideias de negócio. Passou a primeira metade deste ano em São Francisco, a descobrir o que faz de Silicon Valley um ecossistema tão completo e o que podemos aprender com isso.É apaixonado pela construção de modelos de negócio centrados no cliente e por Marketing Digital.
   area: business
   id: luisnunobarbosa
+
+- name: Tiago Gomes Sequeira
+  pic: tiagosequeira.jpg
+  job: CEO & Founder at Factory Braga
+  bio: Entrepreneur working to boost the Portuguese ecosystem with Startup Braga Incubator & Accelerator, gnration a creative hub in the heart of the city and Factory Braga, a CoWorking Space, Academy for the Digital Economy and Innovation programmes for startups and corporations. [Other Ventures] A Vitamina. Digital Agency // Cohive // Champanheria de Janes. [Braga Startup Community] Startup Weekend Braga // Changeathon // So You Think You Can Pitch // Lean Startup Minho // Minho Startup Coffee // Ignite Braga // Startup GNRation // Digital Marketing Case Studies Meetup // MadeInBraga. [Music Festivals] Ponte Party People // Festival SEMIBREVE
+  area: business
+  id: tiagosequeira
+
+- name: Jaime Campos
+  pic: Jaime.jpg
+  job: Co-Founder & CTO at PeekMed
+  bio: Jaime Campos graduated in Informatics for Healthcare at IPCA (Instituto Politécnico do Cávado e do Ave). His academic career allowed him to acquire skills in computer engineering, health sciences and healthcare facilities’ management. He took part in multiple projects related to the application of technological systems in healthcare. The MindCompanion project stands out among them and it was ranked third in the Microsoft ImagineCup idea contest nationally. Started his career as a software developer being now CTO at PeekMed.
+  area: tech
+  id: jaimecampos
+
+- name: Rogério Pontes
+  pic: rogeriopontes.jpg
+  job: Ph.D. Student ant Universidade do Minho
+  bio: Rogério is a computer science researcher at HASLab and a Ph.D. Student. Rogério have been on HASLab for some time now and had the opportunity to work a variety of topics, novel theoretical models of analytical databases, full stack development of a social network and automatic cloud deployments of one of the major portuguese telecommunications enterprises. Now, he works on the european project SafeCloud that aims to redesign the cloud architecture and make it secure.
+  area: tech
+  id: rogeriopontes
+
+- name: Ricardo Tavares
+  pic: ricardo_tavares.jpg
+  job: Head of Strategic Planning, Business Control at CUF Porto & CUF Viseu
+  bio: Ricardo Tavares trabalha na José de Mello Saúde, onde é responsável pelo Planeamento Estratégico e Controlo de Gestão dos hospitais CUF Porto e CUF Viseu. Antes, trabalhou na Critical Software, empresa especializada no desenvolvimento de Software e em serviços de IT, como Controller e responsável pela área Financeira. É licenciado em Gestão pela Universidade de Coimbra e tem um Executive Master in Finance pela Católica Lisbon School of Business and Economics.
+  area: business
+  id: ricardotavares
+
+- name: Jorge Maia Gomes
+  pic: josemaiagomes.jpg
+  job: Director of Strategic Planning, Business Control & Innovation at Hospital de Braga
+  bio: Jorge Maia Gomes é Diretor de Planeamento Estratégico, Controlo de Gestão e Inovação no Hospital de Braga (Hospital PPP gerido pela José de Mello Saúde). Antes de se juntar à empresa em 2013, foi consultor de gestão durante 12 anos na PricewaterhouseCoopers, na Porto Business School e na KPMG, com foco nas áreas de planeamento estratégico, gestão de cadeia de abastecimento e empreendedorismo. Também trabalhou como planeador de produção e materiais na Infineon Technologies. É licenciado em Engenharia e Gestão Industrial pela Universidade do Porto (FEUP) e tem um MBA Executivo pela Porto Business School.
+  area: business
+  id: jorgemaiagomes
+
+- name: Tomé Vardasca
+  pic: foto_tome_vardasca.png
+  job: Software Architect & Project Manager at SPMS
+  bio: Licenciado em Informática para a Saúde pelo Instituto Politécnico de Leiria. Pós-graduação em Informática Médica na Faculdade de Medicina da Universidade do Porto. Iniciou a atividade como programador e gestor de integrações de software no Hospital Fernando Fonseca. Há dois anos iniciou funções como consultor, gestor de projeto e techlead dos Serviços Partilhados do Ministério da Saúde (SPMS), foi responsável pela criação do site Tempos Médios de Espera, das apps MySNS, MySNS Tempos e MySNS Carteira. Atualmente é arquiteto de software e gestor na área de Engenharia de Software, responsável pela identificação eletrónica e assinatura digital.
+  area: tech
+  id: tomevardasca
+
+- name: Duarte Sequeira
+  pic: foto_duarte_sequeira.jpg
+  job: Consultant Project Manager at SPMS
+  bio: Mestrado em Medicina pela Faculdade de Ciências da Saúde da Universidade da Beira Interior. Pós-graduação em Gestão de Informação e Business Intelligence na Saúde. É co-fundador da UpHill, uma spin-off tecnológica dedicada a formação de profissionais em Saúde. É atualmente consultor e gestor de projeto na Serviços Partilhados do Ministério da Saúde (SPMS) na área de Sistemas de Cuidados Hospitalares, sendo responsável pelos projetos Visão Clínica Integrada e Business Intelligence do SClínico Hospitalar.
+  area: health
+  id: duartesequeira
