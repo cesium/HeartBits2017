@@ -18,7 +18,6 @@
   school: CeSIUM
   job:
 
-
 - name: Carolina Xavier
   pic: carolinaxavier.jpg
   school: ANEM
@@ -71,6 +70,11 @@
 
 - name: Inês Sampaio
   pic: 36.jpg
+  school: CeSIUM
+  job:
+
+- name: Pedro Lima
+  pic: eddie.jpg
   school: CeSIUM
   job:
 

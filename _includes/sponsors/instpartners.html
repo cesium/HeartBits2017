@@ -27,5 +27,17 @@
           {% endif %}
           {% endfor %}
         </div>
+
+        <div class="row">
+          {% for partner in site.data.partners %}
+          {% if partner.pic %}
+          {% if partner.size == 8 %}
+          <div class="col-md-8 wide-logo vcenter">
+              <a target="_blank" href="{{ partner.link }}"> {% image 'sponsors/{{partner.pic}}' class:'partner-img img-responsive' %} </a>
+          </div>
+          {% endif %}
+          {% endif %}
+          {% endfor %}
+        </div>
     </div>
 </section>
