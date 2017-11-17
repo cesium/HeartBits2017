@@ -1,7 +1,7 @@
 - name: Alexandre Mendes
   pic: alexandre_mendes.jpg
-  job: Diretor Executivo at Startup Braga
-  bio:
+  job: Diretor Executivo da Startup Braga
+  bio: Alexandre Mendes fez a sua formação de base e pós-graduada em Psicologia. Aprendeu outro tanto em livros, podcasts e no iTunesU. Trabalhou em departamentos de RH de grandes empresas. Mais tarde, desenhou interfaces de promoção da transferência de Conhecimento entre a Universidade e as empresas. Actualmente, é co-fundador d'Os Tais (do vídeo), da Creators School, Coordenador do Skills Lab e Diretor Executivo na Startup Braga. Tem sido também um promotor do empreendedorismo partilhando a sua experiência e visão críticas em universidades e nos mais importantes aceleradores de ideias de negócio e startups (Passaporte do Empreendedorismo, So You Think You Can Pitch, Startup Pirates, Beta-start, Liftoff, Gabinete do Empreendedor da AAUM, Startup Weekend, 3DS). Foi co-autor do livro A Alma do Negócio, o primeiro livro sobre empreendedorismo em Portugal.
   color: white
 
 - name: Pedro Miranda
@@ -9,3 +9,9 @@
   job: Coordenador na SPMS
   bio: Pedro Miranda é licenciado em Ciência de Computadores e pós-graduado em Sistemas Paralelos e Distribuídos pela Faculdade de Ciências da Universidade do Porto. Iniciou a atividade profissional como programador na área da saúde. Há 5 anos iniciou funções nos Serviços Partilhados do Ministério da Saúde (SPMS), onde já desempenhou funções de programador, gestor de projeto e, nos últimos dois anos, tem exercido funções de coordenador. Atualmente coordena a unidade de Engenharia de Software.
   color: gray
+
+- name: Sónia Dória
+  pic: sonia.jpg
+  job: Diretora de Produção no Hospital de Braga
+  bio: Licenciada em Probabilidades e Estatística pela Universidade de Lisboa e Mestre em Epidemiologia pela Universidade Nova de Lisboa, Sónia Dória iniciou a sua carreira pela docência no ensino superior e pela participação ativa em Projectos de Investigação na Medicina, Biologia, Farmacologia e Psicologia. Participou no desenvolvimento de sistemas de informação de suporte à decisão clínica. Em 2003, fez parte da Unidade de Missão Hospitais SA que desenvolveu uma profunda reforma hospitalar e em 2004 coordenou a equipa que desenvolveu e implementou o actual Sistema Integrado de Gestão de Inscritos para Cirurgia (SIGIC). Desde 2005, que assumiu funções na José de Mello Saúde como Directora de Produção, primeiro no Hospital Amadora-Sintra e agora no Hospital de Braga. Publicou, em co-autoria, o livro Alquimia da Qualidade na Gestão dos Hospitais. Tem publicados mais de 25 trabalhos em revistas científicas nacionais, estrangeiras e em actas de congressos científicos de estatística e medicina.
+  color: white
