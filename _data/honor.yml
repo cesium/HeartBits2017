@@ -1,5 +1,20 @@
-- name: José Manuel Peixoto
-  pic: 
-  job: 
-  note: 
-  comment: 
+- name: Maria Amélia Ferreira
+  pic: mariaameliaferreira.jpg
+  job: Coordenadora do CEMP - Conselho de Escolas Médicas Portuguesas / Diretora da Faculdade de Medicina da Universidade do Porto (FMUP) 
+  note: Maria Amélia Ferreira, primeira mulher, e atual, Diretora da Faculdade de Medicina da Universidade do Porto (FMUP) e Coordenadora do Conselho de Escolas Médicas Portuguesas. Nascida a 27 de fevereiro de 1955, em Vila Nova de Gaia, Maria Amélia Ferreira licenciou-se em 1978 pela FMUP. Obteve o Doutoramento pela U.Porto em 1985, tendo ocupado o cargo de professora catedrática da FMUP em 1993. Conquistou, cinco anos depois, pela Universidade de Cardiff, o “Postgraduate Diploma” em Educação Médica, sendo Mestre nesta área científica pela Universidade de Lisboa, desde 2000. Promoveu também os Programas Intergovernamentais de Cooperação na área da Medicina entre Portugal e Angola e a constituição da Rede de Educação Médica em Língua Portuguesa. A sua vasta experiência no âmbito da Educação Médica, aquém e além-fronteiras, valeu-lhe, em 2011, o Prémio Educação da Fundação Calouste Gulbenkian.
+  comment:
+  color: gray
+
+- name: Carlos Oliveira
+  pic: carlos-oliveira.jpg
+  job: Presidente da InvestBraga e Startup Braga
+  note: Carlos Oliveira has a degree in Systems and Informatics Engineering by Universidade do Minho. He has a truly entrepreneurial and visionary spirit with experience in entrepreneurship, innovation, management and public policies for innovation. Carlos is the former Secretary of State for Entrepreneurship, Competitiveness and Innovation at the Portuguese Government, and in 2000 he created the company MobiComp, a startup from the mobile services areas, which he led as a CEO until July of 2008, when he sold it to Microsoft. His work included building the product strategy, driving sales and growing the company, and he is also a founder of several startups and worked as an executive at Microsoft and as an angel/VC investor. He is one of the 15 members of the High Level Group of Innovators that will help shape the design of a European Innovation Council at the European Commission.He has strategic, interpersonal and intrapersonal skills and a long experience in the IT and telecom sectors. Carlos has a consumer-centric perspective with experience in management, strategic planning, and business development, and regularly regularly speaks at industry events as well as contributing to print, radio and television media. Carlos is currently InvestBraga and Startup Braga’s president, mentoring and guiding new startups and entrepreneurs in reaching success.  
+  comment:
+  color: white
+
+- name: Henrique Martins
+  pic: henrique-martins.jpg
+  job: Presidente do Conselho de Administração da SPMS – Serviços Partilhados do Ministério da Saúde, E.P.E.
+  note: Doutorado em Gestão pela Universidade de Cambridge, Mestrado em HIV/SIDA pela Universidade de Barcelona e Licenciado em Medicina pela Universidade Nova de Lisboa. Médico Especialista em Medicina Interna no Hospital Fernando Fonseca. É Presidente do Conselho de Administração da SPMS – Serviços Partilhados do Ministério da Saúde, E.P.E.. É Professor Auxiliar Convidado e coordenador da unidade curricular de Gestão e Liderança em Saúde na FCS-UBI, sendo ainda Coordenador de Programas na área da Saúde da CATÓLICA-LISBON, onde é Professor Auxiliar Convidado.
+  comment: '"Este evento pode ser uma nova forma de descobrir entre outras, soluções informáticas de mobilidade que resolvam problemas concretos, e que possam aproximar os jovens do SNS e do contacto com mensagens de prevenção e promoção da saúde. Soluções como APPs e BoTs que podem depois ser submetidas na página da SPMS (em MySNS Comunidade/ APPs em Saúde) para fazerem parte da nova família de APPs MySNS Seleção. BOM TRABALHO e que GANHEM os MELHORES."'
+  color: gray

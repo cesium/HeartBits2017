@@ -1,0 +1,11 @@
+- name: Alexandre Mendes
+  pic: alexandre_mendes.jpg
+  job: Diretor Executivo at Startup Braga
+  bio:
+  color: white
+
+- name: Pedro Miranda
+  pic: foto_pedro_miranda.jpg
+  job: Coordenador na SPMS
+  bio: Pedro Miranda é licenciado em Ciência de Computadores e pós-graduado em Sistemas Paralelos e Distribuídos pela Faculdade de Ciências da Universidade do Porto. Iniciou a atividade profissional como programador na área da saúde. Há 5 anos iniciou funções nos Serviços Partilhados do Ministério da Saúde (SPMS), onde já desempenhou funções de programador, gestor de projeto e, nos últimos dois anos, tem exercido funções de coordenador. Atualmente coordena a unidade de Engenharia de Software.
+  color: gray

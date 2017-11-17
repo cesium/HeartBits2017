@@ -1,0 +1,28 @@
+<section id="honorshead">
+  <div class="container" style="margin-top: 50px">
+   
+    <div class="section-title-container">
+      <h1 class="section-title honor-title"> Jurados</h1>
+    </div >
+  </div>
+</section>
+{% for member in site.data.jurados %}
+{% if member.pic %}
+<section id="honorsbody" class="{{member.color}}">
+<div class="container">
+    <div class="col-md-4 member-img" style="background-image: url({% asset_path 'honors/{{member.pic}}'%})">
+    </div> 
+    <div class="col-md-8 member-info">
+      <h3 class="member-name">{{ member.name }}</h3>
+        {% if member.job %}
+          <h4><span class="honor-job"> {{ member.job }}</span></h4>
+        {% endif %}
+        </br>
+        {% if member.bio %}
+          <div class="honor-bio"> {{ member.bio }}</div>
+        {% endif %}
+    </div>
+</div>
+</section>
+{% endif %}
+{% endfor %}
