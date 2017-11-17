@@ -13,18 +13,19 @@
   school: ANEM
   job:
 
-- name: André Gonçalves
-  pic: andregoncalves.jpg
+- name: Lúcia Abreu
+  pic: luciaabreu.png
   school: CeSIUM
   job:
+
 
 - name: Carolina Xavier
   pic: carolinaxavier.jpg
   school: ANEM
   job:
 
-- name: Diogo Couto
-  pic: diogocouto.jpg
+- name: Francisco Costa
+  pic: xico.jpg
   school: CeSIUM
   job:
 
@@ -33,14 +34,19 @@
   school: ANEM
   job:
 
-- name: Dinis Peixoto
-  pic: dinispeixoto.jpg
+- name: Tânia Esteves
+  pic: taniaesteves.jpg
   school: CeSIUM
   job:
 
 - name: Eduardo Oliveira
   pic: Oliveira.jpg
   school: ANEM
+  job:
+
+- name: José Bastos
+  pic: josebastos.jpg
+  school: CeSIUM
   job:
 
 - name: Flávia Freitas
@@ -53,9 +59,19 @@
   school: CeSIUM
   job:
 
+- name: André Gonçalves
+  pic: andregoncalves.jpg
+  school: CeSIUM
+  job:
+
 - name: Inês Rodrigues
   pic: inesrodrigues.jpg
   school: ANEM
+  job:
+
+- name: Inês Sampaio
+  pic: 36.jpg
+  school: CeSIUM
   job:
 
 - name: Joana Teixeira
@@ -63,13 +79,8 @@
   school: ANEM
   job:
 
-- name: José Bastos
-  pic: josebastos.jpg
-  school: CeSIUM
-  job:
-
-- name: Lúcia Abreu
-  pic: luciaabreu.png
+- name: Ricardo Pereira
+  pic: zags.jpg
   school: CeSIUM
   job:
 
@@ -78,8 +89,13 @@
   school: ANEM
   job:
 
-- name: João Vilaça
-  pic: vilaça.jpg
+- name: Francisco Lira
+  pic: lira.jpg
+  school: CeSIUM
+  job:
+
+- name: João Cabo
+  pic: yoda.jpg
   school: CeSIUM
   job:
 
@@ -93,27 +109,36 @@
   school: CeSIUM
   job:
 
+- name: Maria Dias
+  pic: nikes.jpg
+  school: CeSIUM
+  job:
+
 - name: Rita Lopes
   pic: ritalopes.jpg
   school: ANEM
   job:
 
-- name: Tânia Esteves
-  pic: taniaesteves.jpg
+- name: Diogo Couto
+  pic: diogocouto.jpg
   school: CeSIUM
   job:
+
+- name: Ricardo Certo
+  pic: 16.jpg
+  school: CeSIUM
 
 - name: Teresa Guimarães
   pic: teresa.jpg
   school: ANEM
   job:
 
-- name: Francisco Costa
-  pic: xico.jpg
+- name: Adriana Guedes
+  pic: candace.jpg
   school: CeSIUM
   job:
 
-- name: José Nuno Macedo
-  pic: zenuno.jpg
+- name: Luís Fonseca
+  pic: pirata.jpg
   school: CeSIUM
   job:
