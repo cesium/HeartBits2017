@@ -9,7 +9,7 @@
 - name: Miguel Amador
   pic: miguelamador.jpg
   job:  Health and Nano Program Manager at Startup Braga
-  bio: Miguel Amador is Manager of the HealthTech and NanoTech Programs at Startup Braga, an incubation and accelerator of new tech business in Braga, Portugal. He is also a Ph.D. student in Bioengineering Systems at Instituto Superior Técnico (IST) in Lisbon, under the MIT Portugal Program. As a Biomedical Engineer, he believes that innovation and entrepreneurship are the motors driving healthcare advancement, and he is using his engineering mindset to hack healthcare policy, and help to unlock precision medicine. His Ph.D. research focuses on new licensing regulatory frameworks to enable patient access to cell therapies. In 2014, he was awarded a Fulbright Fellowship to the MIT Center for Biomedical Innovation. He is also Vice-President of EIT Health Alumni, which aims to be the largest community of health innovators around Europe.
+  bio: Miguel Amador is Manager of the HealthTech and NanoTech Programs at Startup Braga, an incubation and accelerator of new tech business in Braga, Portugal. He is also a Ph.D. student in Bioengineering Systems at Instituto Superior Técnico (IST) in Lisbon, under the MIT Portugal Program. As a Biomedical Engineer, he believes that innovation and entrepreneurship are the motors driving healthcare advancement, and he is using his engineering mindset to hack healthcare policy, and help to unlock precision medicine. His Ph.D. research focuses on new licensing regulatory frameworks to enable patient access to cell therapies. In 2016, he was awarded a Fulbright Fellowship to the MIT Center for Biomedical Innovation. He is also Vice-President of EIT Health Alumni, which aims to be the largest community of health innovators around Europe.
   area: business
   size: 6
   id: miguelamador
@@ -35,7 +35,7 @@
   job: Co-Founder & CTO at PeekMed
   bio: Jaime Campos graduated in Informatics for Healthcare at IPCA (Instituto Politécnico do Cávado e do Ave). His academic career allowed him to acquire skills in computer engineering, health sciences and healthcare facilities’ management. He took part in multiple projects related to the application of technological systems in healthcare. The MindCompanion project stands out among them and it was ranked third in the Microsoft ImagineCup idea contest nationally. Started his career as a software developer being now CTO at PeekMed.
   area: tech
-  size: 4
+  size: 6
   id: jaimecampos
 
 - name: Francisco Neves
@@ -43,15 +43,23 @@
   job: Ph.D. Student at Universidade do Minho & Researcher at HASLab
   bio: Francisco Neves é Licenciado e Mestre em Engenharia Informática. Encontra-se a realizar o seu Doutoramento em Informática no HASLab — Laboratório de Software Confiável — na Universidade do Minho. Durante o seu percurso, Francisco esteve fortemente envolvido em projetos de desenvolvimento de software como FalarSobreCancro, uma rede social temática para os doentes oncológicos, e SafeCloud Photos, uma aplicação para guardar fotografias de forma segura e protegida de terceiros na cloud. É um dos fundadores do grupo Hackathonners que organiza hackathons regulares e promove, dentro da equipa, a partilha de conhecimento e o desenvolvimento de protótipos em hackathons, fomentando assim a aprendizagem contínua.
   area: tech
-  size: 4
+  size: 6
   id: neves
+
+- name: Fernando Mendes
+  pic: mendes.jpg
+  job: Coffee-Addict & Software Engineer at Subvisual
+  bio: O Fernando Mendes troca café por código na Subvisual. Estudou na Universidade do Minho onde obteve o mestrado em Sistemas Distribuídos e Criptografia. É um ex-vice presidente do CeSIUM e atualmente está a organizar várias iniciativas de voluntariado como o CoderDojo Braga e o \#include <braga>, da qual é um dos fundadores. Ganhou vários prémios locais e nacionais por desempenho académico. Alguns dos seus maiores motivos de orgulho incluem ter ganho o quiz do Pixels Camp e ter dito “suruba” em direto na televisão.
+  area: tech
+  size: 6
+  id: mendes
 
 - name: Rogério Pontes
   pic: rogeriopontes.jpg
   job: Ph.D. Student at Universidade do Minho & Researcher at HASLab
   bio: Rogério is a computer science researcher at HASLab and a Ph.D. Student. Rogério has been on HASLab for some time now and had the opportunity to work a variety of topics, novel theoretical models of analytical databases, full stack development of a social network and automatic cloud deployments of one of the major Portuguese telecommunications enterprises. Now, he works on the European project SafeCloud that aims to redesign the cloud architecture and make it secure.
   area: tech
-  size: 4
+  size: 6
   id: rogeriopontes
 
 - name: Ricardo Tavares
