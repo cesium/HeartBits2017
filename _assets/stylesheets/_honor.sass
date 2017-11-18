@@ -30,6 +30,7 @@
   height: auto
   text-align: center
   color: #222
+  display: block
   background-position: center center
   background-repeat: none
   -webkit-background-size: cover
@@ -46,7 +47,11 @@
     height: 300px
     top: 50%
     margin: 80px 0px
+    @media only screen and (max-device-width: 720px)
+      margin: auto
     background-size: cover
+    vertical-align: middle
+    text-align: center
   .member-info
     text-align: center
     display: table-cell
