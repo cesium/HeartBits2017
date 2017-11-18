@@ -3,6 +3,7 @@
   job: Co-Founder and CEO at Nutrium
   bio: Durante o curso de Engenharia Informática na Universidade do Minho, André Santos fundou a Nutrium, uma startup que liga os nutricionistas aos seus pacientes em tempo real. Conta hoje com milhares de clientes distribuídos por mais de dez países. Enquanto CEO do Nutrium, levantou já investimento acima de 600 mil euros e conta com uma equipa transversal composta por informáticos e nutricionistas. Interessado por Growth Hacking, André Santos participou já em várias Hackathons e iniciativas sociais. Foi também presidente do CeSIUM e Organizador do CoderDojo Braga.
   area: business
+  size: 6
   id: andresantos
 
 - name: Miguel Amador
@@ -10,6 +11,7 @@
   job:  Health and Nano Program Manager at Startup Braga
   bio: Miguel Amador is Manager of the HealthTech and NanoTech Programs at Startup Braga, an incubation and accelerator of new tech business in Braga, Portugal. He is also a Ph.D. student in Bioengineering Systems at Instituto Superior Técnico (IST) in Lisbon, under the MIT Portugal Program. As a Biomedical Engineer, he believes that innovation and entrepreneurship are the motors driving healthcare advancement, and he is using his engineering mindset to hack healthcare policy, and help to unlock precision medicine. His Ph.D. research focuses on new licensing regulatory frameworks to enable patient access to cell therapies. In 2014, he was awarded a Fulbright Fellowship to the MIT Center for Biomedical Innovation. He is also Vice-President of EIT Health Alumni, which aims to be the largest community of health innovators around Europe.
   area: business
+  size: 6
   id: miguelamador
 
 - name: Luís Nuno Barbosa
@@ -17,6 +19,7 @@
   job: Business Developer
   bio: Licenciado e pós-graduado em Economia, Luís Nuno Barbosa foi co-fundador da Young Minho Enterprise, a júnior empresa da Universidade do Minho. Organizou várias edições do Startup Pirates em Braga, tendo apoiado a organização em Vila do Conde e Vila Real. Foi coordenador do Factory Academy, uma academia de formação, focada no Marketing Digital, onde trabalhou também em projectos de desenvolvimento de ideias de negócio. Passou a primeira metade deste ano em São Francisco, a descobrir o que faz de Silicon Valley um ecossistema tão completo e o que podemos aprender com isso.É apaixonado pela construção de modelos de negócio centrados no cliente e por Marketing Digital.
   area: business
+  size: 6
   id: luisnunobarbosa
 
 - name: Tiago Gomes Sequeira
@@ -24,6 +27,7 @@
   job: CEO & Founder at Factory Braga
   bio: Empreendedor a trabalhar para melhorar o ecossistema português de Incubadoras e Aceleradoras. Diretor da Startup Braga​ e Membro do Conselho de Administração da Fundação Bracara Augusta​ para o edifício gnration​. Fundador do Factory Braga​, um espaço de CoWorking e centro de formação em marketing digital, e cofundador da Vitamina. Digital Agency​, agência de marketing e comunicação digital. É também coorganizador de eventos de empreendedorismo, nomeadamente So You Think You Can Pitch​, Startup Weekend​ e Minho Startup Coffee, entre muitos outros. Co-fundador de vários outros projetos entre eles dois eventos musicais emergentes, Ponte Party People​ e o Festival SEMIBREVE​.
   area: business
+  size: 6
   id: tiagosequeira
 
 - name: Jaime Campos
@@ -31,6 +35,7 @@
   job: Co-Founder & CTO at PeekMed
   bio: Jaime Campos graduated in Informatics for Healthcare at IPCA (Instituto Politécnico do Cávado e do Ave). His academic career allowed him to acquire skills in computer engineering, health sciences and healthcare facilities’ management. He took part in multiple projects related to the application of technological systems in healthcare. The MindCompanion project stands out among them and it was ranked third in the Microsoft ImagineCup idea contest nationally. Started his career as a software developer being now CTO at PeekMed.
   area: tech
+  size: 4
   id: jaimecampos
 
 - name: Francisco Neves
@@ -38,6 +43,7 @@
   job: Ph.D. Student at Universidade do Minho & Researcher at HASLab
   bio: Francisco Neves é Licenciado e Mestre em Engenharia Informática. Encontra-se a realizar o seu Doutoramento em Informática no HASLab — Laboratório de Software Confiável — na Universidade do Minho. Durante o seu percurso, Francisco esteve fortemente envolvido em projetos de desenvolvimento de software como FalarSobreCancro, uma rede social temática para os doentes oncológicos, e SafeCloud Photos, uma aplicação para guardar fotografias de forma segura e protegida de terceiros na cloud. É um dos fundadores do grupo Hackathonners que organiza hackathons regulares e promove, dentro da equipa, a partilha de conhecimento e o desenvolvimento de protótipos em hackathons, fomentando assim a aprendizagem contínua.
   area: tech
+  size: 4
   id: neves
 
 - name: Rogério Pontes
@@ -45,6 +51,7 @@
   job: Ph.D. Student at Universidade do Minho & Researcher at HASLab
   bio: Rogério is a computer science researcher at HASLab and a Ph.D. Student. Rogério has been on HASLab for some time now and had the opportunity to work a variety of topics, novel theoretical models of analytical databases, full stack development of a social network and automatic cloud deployments of one of the major Portuguese telecommunications enterprises. Now, he works on the European project SafeCloud that aims to redesign the cloud architecture and make it secure.
   area: tech
+  size: 4
   id: rogeriopontes
 
 - name: Ricardo Tavares
@@ -52,6 +59,7 @@
   job: Head of Strategic Planning, Business Control at CUF Porto & CUF Viseu
   bio: Ricardo Tavares trabalha na José de Mello Saúde, onde é responsável pelo Planeamento Estratégico e Controlo de Gestão dos hospitais CUF Porto e CUF Viseu. Antes, trabalhou na Critical Software, empresa especializada no desenvolvimento de Software e em serviços de IT, como Controller e responsável pela área Financeira. É licenciado em Gestão pela Universidade de Coimbra e tem um Executive Master in Finance pela Católica Lisbon School of Business and Economics.
   area: business
+  size: 6
   id: ricardotavares
 
 - name: Jorge Maia Gomes
@@ -59,6 +67,7 @@
   job: Director of Strategic Planning, Business Control & Innovation at Hospital de Braga
   bio: Jorge Maia Gomes é Diretor de Planeamento Estratégico, Controlo de Gestão e Inovação no Hospital de Braga (Hospital PPP gerido pela José de Mello Saúde). Antes de se juntar à empresa em 2013, foi consultor de gestão durante 12 anos na PricewaterhouseCoopers, na Porto Business School e na KPMG, com foco nas áreas de planeamento estratégico, gestão de cadeia de abastecimento e empreendedorismo. Também trabalhou como planeador de produção e materiais na Infineon Technologies. É licenciado em Engenharia e Gestão Industrial pela Universidade do Porto (FEUP) e tem um MBA Executivo pela Porto Business School.
   area: business
+  size: 6
   id: jorgemaiagomes
 
 - name: Tomé Vardasca
@@ -66,6 +75,7 @@
   job: Software Architect & Project Manager at SPMS
   bio: Licenciado em Informática para a Saúde pelo Instituto Politécnico de Leiria. Pós-graduação em Informática Médica na Faculdade de Medicina da Universidade do Porto. Iniciou a atividade como programador e gestor de integrações de software no Hospital Fernando Fonseca. Há dois anos iniciou funções como consultor, gestor de projeto e techlead dos Serviços Partilhados do Ministério da Saúde (SPMS), foi responsável pela criação do site Tempos Médios de Espera, das apps MySNS, MySNS Tempos e MySNS Carteira. Atualmente é arquiteto de software e gestor na área de Engenharia de Software, responsável pela identificação eletrónica e assinatura digital.
   area: tech
+  size: 6
   id: tomevardasca
 
 - name: Duarte Sequeira
@@ -73,4 +83,21 @@
   job: Consultant & Project Manager at SPMS
   bio: Mestrado em Medicina pela Faculdade de Ciências da Saúde da Universidade da Beira Interior. Pós-graduação em Gestão de Informação e Business Intelligence na Saúde. É co-fundador da UpHill, uma spin-off tecnológica dedicada a formação de profissionais em Saúde. É atualmente consultor e gestor de projeto na Serviços Partilhados do Ministério da Saúde (SPMS) na área de Sistemas de Cuidados Hospitalares, sendo responsável pelos projetos Visão Clínica Integrada e Business Intelligence do SClínico Hospitalar.
   area: health
+  size: 6
   id: duartesequeira
+
+- name: Eduardo Freire Rodrigues
+  pic: eduardo.jpg
+  job: Co-Founder and CEO at UpHill Software
+  bio: MD and User Experience design (UX) passionate. He attended Management and Business Administration at Catolica Lisbon School of Business and Economics and studied medicine at Faculté de Médecine U. Paris Sud. He has been devoted to UX programming for several years.
+  area: health
+  size: 6
+  id: eduardofreire
+
+- name: Miguel Palhas
+  pic: miguelpalhas.jpg
+  job: Developer & SysAdmin at Subvisual
+  bio: All-round developer with a background in High Performance Computing, and years of experience in Web Development. Joined Subvisual during his last year at Universidade do Minho, and since then has worked with a variety of clients and technologies. Likes to design and discuss technical solutions to real-world problems. Nowadays, has been focusing a lot on the new big thing, Blockchains, having worked directly on several projects that leveraged this new technology.
+  area: tech
+  size: 6
+  id: miguelpalhas
