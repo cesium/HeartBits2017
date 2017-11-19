@@ -109,3 +109,11 @@
   area: tech
   size: 6
   id: miguelpalhas
+
+- name: Carla Guedes
+  pic: carlaguedes.jpg
+  job: Custumer Engagement Manager
+  bio: Nascida em 1971, Carla Guedes é licenciada em Ciências Farmacêuticas. Inicia a sua carreira na MSD como Delegada de Informação Médica e ao longo de 20 anos de carreia nesta companhia passa por várias funções de responsabilidade crescente na área de Marketing. Foi responsável pela implementação de vários projetos e lançamento de produtos core da MSD nas áreas da Osteoporose, Diabetes, cardiovascular e antibióticos.
+  area: business
+  size: 12
+  id: carlaguedes
