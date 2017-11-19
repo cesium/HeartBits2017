@@ -16,14 +16,26 @@
   bio: Licenciada em Probabilidades e Estatística pela Universidade de Lisboa e Mestre em Epidemiologia pela Universidade Nova de Lisboa, Sónia Dória iniciou a sua carreira pela docência no ensino superior e pela participação ativa em Projectos de Investigação na Medicina, Biologia, Farmacologia e Psicologia. Participou no desenvolvimento de sistemas de informação de suporte à decisão clínica. Em 2003, fez parte da Unidade de Missão Hospitais SA que desenvolveu uma profunda reforma hospitalar e em 2004 coordenou a equipa que desenvolveu e implementou o actual Sistema Integrado de Gestão de Inscritos para Cirurgia (SIGIC). Desde 2005, que assumiu funções na José de Mello Saúde como Directora de Produção, primeiro no Hospital Amadora-Sintra e agora no Hospital de Braga. Publicou, em co-autoria, o livro Alquimia da Qualidade na Gestão dos Hospitais. Tem publicados mais de 25 trabalhos em revistas científicas nacionais, estrangeiras e em actas de congressos científicos de estatística e medicina.
   color: white
 
+- name: Álvaro Pratas Balhau
+  pic: balhau.jpg
+  job: Presidente do Conselho Sub-regional de Braga da Ordem dos Médicos
+  bio: Mestre em Patologia Experimental, Álvaro Pratas Balhau é Assistente Graduado Sénior em Cirurgia Geral e Assistente Hospitalar em Cirurgia Vascular. É Director do Serviço de Cirurgia Geral do Hospital de Santa Maria Maior de Barcelos. Atualmente exerce o cargo de Presidente do Conselho Sub-regional de Braga da Ordem dos Médicos.
+  color: gray
+
 - name: João Pereira
   pic: joaopereira.jpeg
   job: Diretor do Conselho da Escola Nacional de Saúde Pública da Universidade Nova de Lisboa
   bio: João Pereira foi reeleito, no dia 8 de abril, pelo Conselho da Escola Nacional de Saúde Pública da Universidade Nova de Lisboa, para o cargo de Diretor. A eleição foi precedida de uma sessão, onde o candidato apresentou e defendeu o seu programa de ação para o período 2015-2019. João Pereira é Professor Catedrático de Economia da Saúde na Escola e tem desenvolvido investigação nas áreas de avaliação económica de tecnologias da saúde e equidade e desigualdade em saúde. Actualmente, faz parte das comissões científicas dos doutoramentos Erasmus Mundus - Dynamics of Health and Welfare e FCT – Global Public Health, diversas comissões no âmbito do Ministério da Saúde e preside à Assembleia Geral do Health Cluster Portugal. Este é o segundo mandato de João Pereira, que assumiu a Direção da Escola a partir de Fevereiro de 2011.
-  color: gray
+  color: white
 
 - name: Roberto Machado
   pic: robertomachado.jpg
   job: CEO & Co-Founder at Subvisual
   bio: With a background in Computer Science, but with plenty of experience in management and entrepreneurship, Roberto has always been interested in creating new ventures. Currently CEO at Subvisual where he has the opportunity to manage a fantastic group of professionals that have their hearts set in creating wonderful Web products. He is fully committed into improving the entrepreneurial scene in Braga, his hometown, being involved in several projects meant to boost the startup ecosystem. Breathes technology and deeply believes, hence the creation of Subvisual, that it is the medium for a better future. Always has 5 minutes to listen to you.
-  color: white
+  color: gray
+
+#- name: Fernando De Almeida Santos
+#  pic: fernandosantos.jpg
+#  job: Vice Presidente Nacional da Ordem dos Engenheiros
+#  bio:
+#  color: white
