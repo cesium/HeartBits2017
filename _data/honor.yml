@@ -29,5 +29,6 @@
 - name: Álvaro Pratas Balhau
   pic: balhau.jpg
   job: Presidente do Conselho Sub-regional de Braga da Ordem dos Médicos
-  bio: Mestre em Patologia Experimental, Álvaro Pratas Balhau é Assistente Graduado Sénior em Cirurgia Geral e Assistente Hospitalar em Cirurgia Vascular. É Director do Serviço de Cirurgia Geral do Hospital de Santa Maria Maior de Barcelos. Atualmente exerce o cargo de Presidente do Conselho Sub-regional de Braga da Ordem dos Médicos.
+  note: Mestre em Patologia Experimental, Álvaro Pratas Balhau é Assistente Graduado Sénior em Cirurgia Geral e Assistente Hospitalar em Cirurgia Vascular. É Director do Serviço de Cirurgia Geral do Hospital de Santa Maria Maior de Barcelos. Atualmente exerce o cargo de Presidente do Conselho Sub-regional de Braga da Ordem dos Médicos.
+  comment:
   color: gray
