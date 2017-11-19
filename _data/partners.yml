@@ -34,6 +34,10 @@
   pic: unilabs.png
   link: https://unilabs.pt
   size: 4
+- name: nos
+  pic: nos.png
+  link: http://nos.pt
+  size: 4
 - name: engenharia
   pic: engenharia.png
   link: https://www.eng.uminho.pt/pt
