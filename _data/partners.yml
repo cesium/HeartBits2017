@@ -1,7 +1,7 @@
 - name: investbraga
   pic: startup_braga.png
   link: http://www.investbraga.com/startup/
-  size: 4
+  size: 12
 - name: hospbraga
   pic: hospitalbraga.png
   link: https://www.hospitaldebraga.pt/
@@ -17,6 +17,10 @@
 - name: aneeb
   pic: aneeb.png
   link: http://www.facebook.com/aneebiomedica/
+  size: 4
+- name: nemum
+  pic: nemum.png
+  link: http://nemum.com
   size: 4
 - name: vieira
   pic: vieira.png
@@ -38,11 +42,3 @@
   pic: medicina.jpg
   link: https://www.med.uminho.pt/pt
   size: 6
-- name: CeSIUM
-  pic: cesium.png
-  link: http://cesium.di.uminho.pt
-  size: 8
-- name: nemum
-  pic: nemum.png
-  link: http://nemum.com
-  size: 8
