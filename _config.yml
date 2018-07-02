@@ -13,5 +13,5 @@ markdown: kramdown
 highlighter: rouge
 
 # Plugins
-plugins:
+gems:
   - jekyll-assets
