@@ -9,8 +9,7 @@
 <section id="mentorsbody">
   <div class="container business">
     <h2>Business Development</h2>
-    {% for mentor in site.data.mentors %}
-    {% if mentor.area == "business" %}
+    {% for mentor in site.data.mentors %} {% if mentor.area == "business" %}
     <div class="vcenter col-md-{{mentor.size}} icons-space mentor">
       <div class="mentor-img vcenter img-responsive" style="background-image: url({% asset_path 'mentors/{{mentor.pic}}'%})">
       </div>
@@ -24,14 +23,12 @@
         <h6>"{{mentor.bio}}"</h6>
       </div>
     </div>
-    {% endif %}
-    {% endfor %}
+    {% endif %} {% endfor %}
   </div>
 
   <div class="container tech">
     <h2>Tech Development</h2>
-    {% for mentor in site.data.mentors %}
-    {% if mentor.area == "tech" %}
+    {% for mentor in site.data.mentors %} {% if mentor.area == "tech" %}
     <div class="vcenter col-md-{{mentor.size}} icons-space mentor">
       <div class="mentor-img vcenter img-responsive" style="background-image: url({% asset_path 'mentors/{{mentor.pic}}'%})">
       </div>
@@ -45,14 +42,12 @@
         <h6>"{{mentor.bio}}"</h6>
       </div>
     </div>
-    {% endif %}
-    {% endfor %}
+    {% endif %} {% endfor %}
   </div>
 
   <div class="container health">
     <h2>Health Development</h2>
-    {% for mentor in site.data.mentors %}
-    {% if mentor.area == "health" %}
+    {% for mentor in site.data.mentors %} {% if mentor.area == "health" %}
     <div class="vcenter col-md-{{mentor.size}} icons-space mentor">
       <div class="mentor-img vcenter img-responsive" style="background-image: url({% asset_path 'mentors/{{mentor.pic}}'%})">
       </div>
@@ -66,7 +61,6 @@
         <h6>"{{mentor.bio}}"</h6>
       </div>
     </div>
-    {% endif %}
-    {% endfor %}
+    {% endif %} {% endfor %}
   </div>
 </section>
